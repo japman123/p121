@@ -1,0 +1,16 @@
+body
+{
+    background: lawngreen;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    width: 100%;
+}
+
+.img-responsive
+{
+    height: 125px;
+    width: 125px;
+}
